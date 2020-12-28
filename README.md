@@ -14,7 +14,7 @@ Functional dice game in python using a console with inputs and commands.
 
 ## CIS415 Folder
 Collection of Python coding from in class work. classes, dictionaries, functions surrounding pearson correlation and other calculated distance statistics used for recommendation based platforms.
-  ###Assignment_3.py
+  ### Assignment_3.py
   Functioning music recommendation system based on a database of user rated albums.
 
 
