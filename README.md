@@ -6,8 +6,14 @@ Robert Nelson's data science portfolio including python, SQL, database and analy
 ## Pet Hotel and Spa Database Design Project in SQL.pdf
 Six month group project for CIS 365. Built a RDBMS from the ground up by making an ERD and then creating tables and relationships and adding data, followed by creating complex SQL queries to find high level answers for our client.
 
+## Streaming Wars Movie Analysis Final.pdf
+Six month individual project for CIS 450. Focus on Enterprise Analytic tools such as Tableau and Excel, creating competitive analysis views of movie and TV streaming platforms such as Netflix, Hulu, and Disney Plus.
+
 ## Disney Movie Analysis Project.pdf
 Math IA as a requirement for the International Baccalaureate program. In depth report on projected box office success of future Disney films based on past box office success. Based mostly in Excel, analyzing and visualizing data.
+
+## Spear Education Group Project
+Six month group project for Spear Education Dental Continuing Education, reporting on customer and product data of their various education tools through Tableau and Excel. 
 
 ## python dice game.py
 Functional dice game in python using a console with inputs and commands.
